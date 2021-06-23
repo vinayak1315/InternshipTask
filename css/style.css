@@ -48,7 +48,7 @@ a:hover{ text-decoration: none; }
 }
 .header{
     background-image: url('../images/Main.png');
-    height: auto;
+    height: 70vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size:100% 100%;
@@ -62,7 +62,7 @@ a:hover{ text-decoration: none; }
     margin-top: 10%;
 }
 .header-buttons{
-    margin-top: 5%;
+    margin-top: 8%;
 }
 .header-buttons a{
     background-color: #fff;
